@@ -1,4 +1,4 @@
 # shivanshu
 This is my first git Repository
 <br>
-Author- Shivanshu Shekhar Jha
+Author- Shivanshu Shekhar Jha(Student)
