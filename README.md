@@ -1,4 +1,4 @@
 # shivanshu
-qwertyu
+This is my first git Repository
 <br>
-xyz
+Author- Shivanshu Shekhar Jha
